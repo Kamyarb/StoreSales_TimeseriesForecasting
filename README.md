@@ -14,5 +14,5 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 ![image](https://user-images.githubusercontent.com/100142624/182035283-98520bb7-6a40-4bfa-bd98-217db8d9fd5a.png)
 
 
-score in RandomForestRegressor: 0.94
-submitted and ranked in top80%
+score in RandomForestRegressor: 0.5
+submitted and ranked in top 10%
